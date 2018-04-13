@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     
     <Grid>
+        
         <TextBox Name="txtNome" MaxLength="30"  Height="23" HorizontalAlignment="Left" Margin="184,48,0,0"  VerticalAlignment="Top" Width="120" />
         <TextBox Name="txtAnoNascimento" MaxLength="4" Height="23" HorizontalAlignment="Left" Margin="184,121,0,0"  VerticalAlignment="Top" Width="120" PreviewTextInput="textBox2_PreviewTextInput" />
         <Label Name="lblFonte" Content="Small Label" Height="28" HorizontalAlignment="Left" Margin="218,170,0,0"  VerticalAlignment="Top" />

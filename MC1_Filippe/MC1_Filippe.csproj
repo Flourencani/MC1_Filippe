@@ -8,7 +8,7 @@
     <ProjectGuid>{14F3FC79-6B0C-4698-A5E7-8014DA507C43}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MC1_Filippe</RootNamespace>
+    <RootNamespace>MC1_Filippe</RootNamespace> 
     <AssemblyName>MC1_Filippe</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

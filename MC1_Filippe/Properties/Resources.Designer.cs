@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MC1_Filippe.Properties
+namespace MC1_Filippe.Properties 
 {
 
 

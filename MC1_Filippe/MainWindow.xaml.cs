@@ -26,6 +26,7 @@ namespace MC1_Filippe
         public MainWindow()
         {
             InitializeComponent();
+
         }
 
         //Obtendo a string de conexão do arquivo App.Config

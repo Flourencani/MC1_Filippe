@@ -12,5 +12,6 @@ namespace MC1_Filippe
     /// </summary>
     public partial class App : Application
     {
+		
     }
 }
