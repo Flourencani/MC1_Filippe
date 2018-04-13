@@ -1,0 +1,12 @@
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\App.g.cs
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe_MarkupCompile.cache
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\bin\Debug\MC1_Filippe.exe
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\bin\Debug\MC1_Filippe.pdb
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MainWindow.baml
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MainWindow.g.cs
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe.g.resources
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe.Properties.Resources.resources
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe.csproj.GenerateResource.Cache
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe.exe
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\obj\x86\Debug\MC1_Filippe.pdb
+c:\users\546491\documents\visual studio 2010\Projects\MC1_Filippe\MC1_Filippe\bin\Debug\MC1_Filippe.exe.config
